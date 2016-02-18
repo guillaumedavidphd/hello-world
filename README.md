@@ -1,2 +1,5 @@
-# hello-world
-Hello world on GitHub
+# Hello World
+
+Hey there!
+
+I created this GitHub to share some of my Data Science projects!
